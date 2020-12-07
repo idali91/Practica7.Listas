@@ -1,13 +1,17 @@
+
+/* primera lista */
 ul.circulo{
     list-style-type: circle;
 }
+/* segunda lista */
 ol.decimal{
     list-style-type: decimal;
 }
+/* tercera lista dentro de la segunda */
 ol.romano{
     list-style-type: upper-roman;
 }
-
+/* cuarta lista */
 ol.a{
     list-style-type:lower-latin ;
 }
